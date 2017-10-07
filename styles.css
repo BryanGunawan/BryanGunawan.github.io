@@ -23,6 +23,13 @@
   color: white
 }
 
-#filler {
-  font-size: 30px;
+.container2{
+    max-width: 100em;
+    width:92%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.center {
+  text-align: center
 }
