@@ -11,24 +11,24 @@
   height: 500px;
 }
 
-.display-3 {
-  color: white
-}
-
 .lead {
-  color: white
+  color: white;
 }
 
+.lead2 {
+  color: white
+}
 p {
   font-size: 1em;
   line-height: 1.8;
-  margin-top: 0em;
 }
 
 img {
   max-width: 100%;
 }
 
+.display-3 {
+  color: white
 }
 
 header h1 {
