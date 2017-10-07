@@ -1,0 +1,28 @@
+.jumbotron {
+  background-image: url(INSEADspeech.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-bottom: 4em;
+  text-align: center;
+  height: 500px;
+}
+
+.display-3 {
+  color: white
+}
+
+.lead {
+  color: white
+}
+
+.container {
+  color: white
+}
+
+#filler {
+  font-size: 30px;
+}
