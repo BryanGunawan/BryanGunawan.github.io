@@ -29,9 +29,13 @@
 }
 
 .lead-2 {
-  color: white
+  color: black;
+  text-align: center;
 }
 
+.lead-5 {
+  padding-top: 5em
+}
 p {
   font-size: 1em;
   line-height: 1.8;
