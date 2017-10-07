@@ -11,6 +11,19 @@
   height: 500px;
 }
 
+.jumbotron2 {
+  background-image: url(Ocean.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-bottom: 4em;
+  text-align: center;
+  height: 500px;
+}
+
 .lead {
   color: white;
 }
@@ -18,6 +31,7 @@
 .lead-2 {
   color: white
 }
+
 p {
   font-size: 1em;
   line-height: 1.8;
@@ -41,6 +55,10 @@ header h1 {
   position: relative;
   top: 370px;
   font-weight: 700;
+}
+
+.display-4, .lead-3 {
+  padding-top: 0.5em;
 }
 
 header p {
